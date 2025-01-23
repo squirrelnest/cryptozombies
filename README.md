@@ -1,0 +1,2 @@
+# cryptozombies
+Mock smart contract
